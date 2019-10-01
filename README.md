@@ -12,4 +12,5 @@ This a simple Health Care App in Flutter for intermediates UI
 
 
 
-![](bmi-calc-demo.gif)
+![](1.png)
+![](2.png)
