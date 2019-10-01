@@ -1,16 +1,7 @@
 # BMI_calculator
 This a simple Health Care App in Flutter for intermediates UI
 
+<img src =1.png width="260" height = "500">
 
+<img src =2.png width="260" height = "500">
 
-
-
-![](1.png=250x250)
-
-
-![1.png | width=100px | alt=Bridge]
-![2.png | width=100px | alt=Bridge]
-
-
-
-![](2.png=250x250)
